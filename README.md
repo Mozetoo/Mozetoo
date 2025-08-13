@@ -87,7 +87,7 @@ I'm passionate about creating **hardware and software systems** that make a mean
 <div align="center">
   <img src="https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altium-designer&logoColor=white" />
   <img src="https://img.shields.io/badge/EasyEDA-0066CC?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=de7521" />
   <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" />
 </div>
