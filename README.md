@@ -60,6 +60,8 @@ I enjoy exploring **PCB design**, **home automation**, **entrepreneurship**, and
   <a href="https://scrapy.org/" target="_blank"><img height="22px" src="https://img.shields.io/badge/Scrapy-0C4B33?style=for-the-badge&logo=scrapy&logoColor=white&color=0C4B33"/></a>
 </p>
 
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,cs,flutter,js,lua&theme=light)](https://skillicons.dev)
+
 
 ---
 
