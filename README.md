@@ -22,7 +22,9 @@
 I'm passionate about creating **hardware and software systems** that make a meaningful impact on people's lives. My journey spans from **embedded systems** and **IoT development** to **AI integration** and **full-stack solutions**. Every day brings new learning opportunities, and I thrive on turning complex challenges into elegant solutions.
 
 
-<img src="https://streak-stats.demolab.com/?user=Mozetoo&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117" alt="GitHub Streak" />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117" alt="GitHub Streak" />
+</div>
 ---
 
 ## 🚀 What I Do
