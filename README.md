@@ -131,7 +131,7 @@ I'm passionate about creating **hardware and software systems** that make a mean
 ## 🤝 Let's Connect & Collaborate
 
 <div align="center">
-  <a href="YOUR_LINKEDIN_LINK" target="_blank">
+  <a href="https://www.linkedin.com/in/moses-sampson-1362a61a1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&border_radius=10" alt="LinkedIn" />
   </a>
   <a href="mailto:your.email@example.com">
