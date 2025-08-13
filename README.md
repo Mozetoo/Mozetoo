@@ -1,7 +1,7 @@
-
+ <h1 align="center">Hi there, I'm Moses Sampson! 👋</h1>
 
 <div align="center">
-  # Hi there, I'm Moses Sampson! 👋
+
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hardware+%26+Software+Engineer;IoT+Systems+Developer;AI+%26+Computer+Vision+Explorer;Full-Stack+Solution+Architect" alt="Typing SVG" />
 </div>
 
