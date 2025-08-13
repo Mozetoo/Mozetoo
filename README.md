@@ -18,7 +18,7 @@ I enjoy exploring **PCB design**, **home automation**, **entrepreneurship**, and
 ## 🛠️ Tools & Technologies
 
 <p align="left">
-  <!-- Row 1: Programming Languages -->
+ ## 🛠️ Programming Languages
   <a href="https://www.python.org/" target="_blank"><img height="22px" src="https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white&color=4B8BBE"/></a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img height="22px" src="https://img.shields.io/badge/C-005B96?style=for-the-badge&logo=c&logoColor=white&color=005B96"/></a>
   <a href="https://isocpp.org/" target="_blank"><img height="22px" src="https://img.shields.io/badge/C++-2E5E9E?style=for-the-badge&logo=cplusplus&logoColor=white&color=2E5E9E"/></a>
