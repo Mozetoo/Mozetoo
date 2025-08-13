@@ -1,81 +1,173 @@
-# Hi there, I'm Moses Sampson 👋
+# Hi there, I'm Moses Sampson! 👋
 
-💡 I love building **hardware and software systems** that make a big impact on people's lives.  
-I'm deeply curious and learn something new every day — from **control systems** to **IoT**, **computer vision**, and **AI**.  
-I enjoy exploring **PCB design**, **home automation**, **entrepreneurship**, and everything in between.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hardware+%26+Software+Engineer;IoT+Systems+Developer;AI+%26+Computer+Vision+Explorer;Full-Stack+Solution+Architect" alt="Typing SVG" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/💡-Innovation%20Driven-brightgreen?style=for-the-badge&labelColor=1a1a1a&color=00d4aa" />
+  <img src="https://img.shields.io/badge/🚀-Always%20Learning-blue?style=for-the-badge&labelColor=1a1a1a&color=58a6ff" />
+  <img src="https://img.shields.io/badge/🔧-Problem%20Solver-orange?style=for-the-badge&labelColor=1a1a1a&color=ff7b00" />
+</div>
+
+---
+
+## 🌟 About Me
+
+> *"Curiosity drives innovation — I build to learn, and learn to build."*
+
+I'm passionate about creating **hardware and software systems** that make a meaningful impact on people's lives. My journey spans from **embedded systems** and **IoT development** to **AI integration** and **full-stack solutions**. Every day brings new learning opportunities, and I thrive on turning complex challenges into elegant solutions.
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117" alt="GitHub Streak" />
+</div>
 
 ---
 
 ## 🚀 What I Do
-- 🔧 Design and develop **embedded systems**
-- 🌐 Build **IoT products** from prototype to deployment
-- 🧠 Experiment with **machine learning** and **computer vision**
-- 🖥️ Craft **full-stack software solutions**
-- 🏠 Automate and optimize **smart home technologies**
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔧 **Hardware & Embedded**
+- Embedded systems design & development
+- PCB design and prototyping
+- IoT product development (prototype → production)
+- Control systems engineering
+
+</td>
+<td width="50%">
+
+### 💻 **Software & AI**
+- Full-stack application development
+- Machine learning & computer vision
+- Smart home automation systems
+- Cloud-native solutions
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Technology Stack
 
-<p align="left">
-  <a href="https://www.python.org/" target="_blank"><img height="22px" src="https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white&color=4B8BBE"/></a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img height="22px" src="https://img.shields.io/badge/C-005B96?style=for-the-badge&logo=c&logoColor=white&color=005B96"/></a>
-  <a href="https://isocpp.org/" target="_blank"><img height="22px" src="https://img.shields.io/badge/C++-2E5E9E?style=for-the-badge&logo=cplusplus&logoColor=white&color=2E5E9E"/></a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img height="22px" src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white&color=68217A"/></a>
-  <a href="https://flutter.dev/" target="_blank"><img height="22px" src="https://img.shields.io/badge/Flutter-0468D7?style=for-the-badge&logo=flutter&logoColor=white&color=0468D7"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img height="22px" src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black&color=F0DB4F"/></a>
-  <a href="https://www.lua.org/" target="_blank"><img height="22px" src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white&color=000080"/></a>
-</p>
+### **Programming Languages**
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&border_radius=10" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+</div>
 
-<p align="left">
-  <!-- Row 2: Development & Cloud Tools -->
-  <a href="https://www.docker.com/" target="_blank"><img height="22px" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&color=2496ED"/></a>
-  <a href="https://www.overleaf.com/" target="_blank"><img height="22px" src="https://img.shields.io/badge/Overleaf-79DAE8?style=for-the-badge&logo=overleaf&logoColor=white&color=64c13e"/></a>
-  <a href="https://www.qt.io/" target="_blank"><img height="22px" src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white&color=41CD52"/></a>
-  <a href="https://easyeda.com/" target="_blank"><img height="22px" src="https://img.shields.io/badge/EasyEDA-FF6C37?style=for-the-badge&logo=&logoColor=white&color=FF6C37"/></a>
-  <a href="https://www.altium.com/" target="_blank"><img height="22px" src="https://img.shields.io/badge/Altium-FF0000?style=for-the-badge&logo=&logoColor=white&color=FF0000"/></a>
-  <a href="https://colab.research.google.com/" target="_blank"><img height="22px" src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white&color=F9AB00"/></a>
-  <a href="https://www.langchain.com/" target="_blank"><img height="22px" src="https://img.shields.io/badge/LangChain-3B5BDB?style=for-the-badge&logo=&logoColor=white&color=3B5BDB"/></a>
-</p>
+### **Frameworks & Libraries**
+<div align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
+  <img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" />
+</div>
 
-<p align="left">
-  <!-- Row 3: AI/ML & Vision -->
-  <a href="https://huggingface.co/" target="_blank"><img height="22px" src="https://img.shields.io/badge/HuggingFace-F5900E?style=for-the-badge&logo=huggingface&logoColor=white&color=F5900E"/></a>
-  <a href="https://opencv.org/" target="_blank"><img height="22px" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&color=5C3EE8"/></a>
-  <a href="https://www.anthropic.com/claude" target="_blank"><img height="22px" src="https://img.shields.io/badge/Claude-7D5FFF?style=for-the-badge&logo=&logoColor=white&color=7D5FFF"/></a>
-  <a href="https://www.deepseek.ai/" target="_blank"><img height="22px" src="https://img.shields.io/badge/DeepSeek-FF4F00?style=for-the-badge&logo=&logoColor=white&color=FF4F00"/></a>
-  <a href="https://chat.openai.com/" target="_blank"><img height="22px" src="https://img.shields.io/badge/ChatGPT-00FFA0?style=for-the-badge&logo=openai&logoColor=white&color=00FFA0"/></a>
-</p>
+### **Tools & Platforms**
+<div align="center">
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+</div>
 
-<p align="left">
-  <!-- Row 4: OS, Productivity & Others -->
-  <a href="https://www.linux.org/" target="_blank"><img height="22px" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&color=FCC624"/></a>
-  <a href="https://ubuntu.com/" target="_blank"><img height="22px" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&color=E95420"/></a>
-  <a href="https://www.canva.com/" target="_blank"><img height="22px" src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white&color=00C4CC"/></a>
-  <a href="https://github.com/" target="_blank"><img height="22px" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=181717"/></a>
-  <a href="https://github.com/features/actions" target="_blank"><img height="22px" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&color=2088FF"/></a>
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img height="22px" src="https://img.shields.io/badge/MATLAB-F1672A?style=for-the-badge&logo=matlab&logoColor=white&color=F1672A"/></a>
-  <a href="https://www.selenium.dev/" target="_blank"><img height="22px" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white&color=43B02A"/></a>
-  <a href="https://scrapy.org/" target="_blank"><img height="22px" src="https://img.shields.io/badge/Scrapy-0C4B33?style=for-the-badge&logo=scrapy&logoColor=white&color=0C4B33"/></a>
-</p>
+### **Design & Engineering**
+<div align="center">
+  <img src="https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altium-designer&logoColor=white" />
+  <img src="https://img.shields.io/badge/EasyEDA-0066CC?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" />
+</div>
 
-
-
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+### **AI & Cloud Platforms**
+<div align="center">
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/DeepSeek-FF4F00?style=for-the-badge&logoColor=white" />
+</div>
 
 ---
 
-## 📫 Let's Connect
-- LinkedIn: [Your LinkedIn Link](#)
-- Email: **your.email@example.com**
+## 📊 GitHub Analytics
 
-⭐ *"Curiosity drives innovation — I build to learn, and learn to build."*
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=15&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117"/>
+</div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&border_radius=15" alt="Contribution Graph" />
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&border_radius=15" />
+</div>
+
+---
+
+## 🌱 Current Focus Areas
+
+<div align="center">
+
+| 🎯 **Learning** | 🚧 **Building** | 🔬 **Exploring** |
+|:---:|:---:|:---:|
+| Advanced ML/AI Integration | Next-gen IoT Solutions | Quantum Computing Applications |
+| Edge Computing Optimization | Smart Home Ecosystems | Sustainable Tech Solutions |
+| Cloud-Native Architecture | Computer Vision Projects | Robotics & Automation |
+
+</div>
+
+---
+
+## 📈 Activity Overview
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=58A6FF&style=for-the-badge&border_radius=10" alt="Profile Views" />
+</div>
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+  <a href="YOUR_LINKEDIN_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&border_radius=10" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&border_radius=10" alt="Email" />
+  </a>
+  <a href="YOUR_PORTFOLIO_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&border_radius=10" alt="Portfolio" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=footer&border_radius=15" />
+</div>
+
+<div align="center">
+  <i>⭐ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME) with ❤️</i>
+</div>
