@@ -71,7 +71,7 @@ I'm passionate about creating **hardware and software systems** that make a mean
   <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
   <img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-3a7114?style=for-the-badge&logo=langchain&logoColor=white" />
 </div>
 
 ### **Tools & Platforms**
@@ -95,7 +95,7 @@ I'm passionate about creating **hardware and software systems** that make a mean
 ### **AI & Cloud Platforms**
 <div align="center">
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-de7521?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/DeepSeek-3279cd?style=for-the-badge&logoColor=white" />
 </div>
