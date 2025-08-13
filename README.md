@@ -60,7 +60,15 @@ I enjoy exploring **PCB design**, **home automation**, **entrepreneurship**, and
   <a href="https://scrapy.org/" target="_blank"><img height="22px" src="https://img.shields.io/badge/Scrapy-0C4B33?style=for-the-badge&logo=scrapy&logoColor=white&color=0C4B33"/></a>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,cs,flutter,js,lua&theme=light)](https://skillicons.dev)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" style="border-radius:8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" style="border-radius:8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" style="border-radius:8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" style="border-radius:8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" style="border-radius:8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" style="border-radius:8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="40" style="border-radius:8px;"/>
+</p>
 
 
 ---
