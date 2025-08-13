@@ -97,7 +97,7 @@ I'm passionate about creating **hardware and software systems** that make a mean
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/DeepSeek-FF4F00?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/DeepSeek-3279cd?style=for-the-badge&logoColor=white" />
 </div>
 
 ---
