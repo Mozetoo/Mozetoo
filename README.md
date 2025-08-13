@@ -31,7 +31,7 @@ I enjoy exploring **PCB design**, **home automation**, **entrepreneurship**, and
 <p align="left">
   <!-- Row 2: Development & Cloud Tools -->
   <a href="https://www.docker.com/" target="_blank"><img height="22px" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&color=2496ED"/></a>
-  <a href="https://www.overleaf.com/" target="_blank"><img height="22px" src="https://img.shields.io/badge/Overleaf-79DAE8?style=for-the-badge&logo=overleaf&logoColor=white&color=79DAE8"/></a>
+  <a href="https://www.overleaf.com/" target="_blank"><img height="22px" src="https://img.shields.io/badge/Overleaf-79DAE8?style=for-the-badge&logo=overleaf&logoColor=white&color=64c13e"/></a>
   <a href="https://www.qt.io/" target="_blank"><img height="22px" src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white&color=41CD52"/></a>
   <a href="https://easyeda.com/" target="_blank"><img height="22px" src="https://img.shields.io/badge/EasyEDA-FF6C37?style=for-the-badge&logo=&logoColor=white&color=FF6C37"/></a>
   <a href="https://www.altium.com/" target="_blank"><img height="22px" src="https://img.shields.io/badge/Altium-FF0000?style=for-the-badge&logo=&logoColor=white&color=FF0000"/></a>
