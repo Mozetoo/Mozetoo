@@ -108,8 +108,8 @@ I'm passionate about creating **hardware and software systems** that make a mean
 | 🎯 **Learning** | 🚧 **Building** | 🔬 **Exploring** |
 |:---:|:---:|:---:|
 | Advanced ML/AI Integration | Next-gen IoT Solutions | PCB Design |
-| Edge Computing Optimization | Smart Home Ecosystems | Sustainable Tech Solutions |
-| Cloud-Native Architecture | Computer Vision Projects | Robotics & Automation |
+| Edge Computing Optimization | Smart Home Ecosystems | Computer Vision |
+| Cloud-Native Architecture | Computer Vision Projects |AI Integration |
 
 </div>
 
