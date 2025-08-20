@@ -1,8 +1,9 @@
-<h1 align="center">Hi there, I'm Moses Sampson! 👋</h1>
+
+ <h1 align="center">Hi there, I'm Moses Sampson! 👋</h1>
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=AI+%26+Robotics+Engineer;IoT+Systems+Developer;Embedded+AI+Innovator;Full-Stack+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hardware+%26+Software+Engineer;IoT+Systems+Developer;AI+%26+Enthusiast;Full-Stack+Solution+Architect" alt="Typing SVG" />
 </div>
 
 <br>
@@ -15,55 +16,116 @@
 
 ---
 
-## 🧠 About Me
+## 🌟 About Me
 
-I'm a passionate technophile with a deep interest in **Artificial Intelligence**, **Machine Learning**, and **Robotics**.  
-My mission is to help shape the future by designing **intelligent systems** that seamlessly interact with the world around us.  
+> *"Curiosity drives innovation — I build to learn, and learn to build."*
 
-* 🤖 Developing robotic systems that connect the digital and physical worlds  
-* 🧠 Designing intelligent algorithms that adapt and learn from data  
-* 📊 Experimenting with **NLP, Computer Vision, and Deep Learning** models  
-* 🎓 B.Sc. in Electrical & Electronic Engineering (EEE), with a focus on **Robotics, AI & ML**  
-* 🧪 Constantly exploring **state-of-the-art AI technologies** to push innovation further  
+I'm passionate about creating **hardware and software systems** that make a meaningful impact on people's lives. My journey spans from **embedded systems** and **IoT development** to **AI integration** and **full-stack solutions**. Every day brings new learning opportunities, and I thrive on turning complex challenges into elegant solutions.
+
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mozetoo&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117" alt="GitHub Streak" />
+</div>
+---
+
+## 🚀 What I Do
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔧 **Hardware & Embedded**
+- Embedded systems design & development
+- PCB design and prototyping
+- IoT product development (prototype → production)
+- Control systems engineering
+
+</td>
+<td width="50%">
+
+### 💻 **Software & AI**
+- Full-stack application development
+- Machine learning & computer vision
+- Smart home automation systems
+- Cloud-native solutions
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Technology Stack
+
+### **Programming Languages**
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&border_radius=10" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+</div>
+
+### **Frameworks & Libraries**
+<div align="center">
+ 
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
+  <img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-3a7114?style=for-the-badge&logo=langchain&logoColor=white" />
+</div>
+
+### **Tools & Platforms**
+<div align="center">
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+</div>
+
+### **Design & Engineering**
+<div align="center">
+  <img src="https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altium-designer&logoColor=white" />
+  <img src="https://img.shields.io/badge/EasyEDA-0066CC?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-de7521?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" />
+</div>
+
+### **AI & Cloud Platforms**
+<div align="center">
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-de7521?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/DeepSeek-3279cd?style=for-the-badge&logoColor=white" />
 </div>
 
 ---
 
-## 💡 Open to Collaborate On  
 
-* 🤖 Robotics & Embedded AI Projects  
-* 🧠 NLP and Generative AI Applications  
-* 🔍 Research in **Computer Vision** or **Transformers**  
-* 🛠️ Building AI-powered automation tools and assistants  
-
----
-
-## 👨‍💻 Tech Stack  
-
-* **Languages:** Python, C/C++, JavaScript, SQL  
-* **Frameworks & Tools:** PyTorch, TensorFlow, OpenCV, Rasa, ROS, FastAPI, Scikit-learn  
-* **Areas of Interest:** Robotics, NLP, Deep Learning, Computer Vision, Embedded Systems  
-* **Others:** Git, Linux, Docker, Firebase, REST APIs  
-
----
-
-## 🔗 Connect With Me  
+## 🌱 Current Focus Areas
 
 <div align="center">
-  <a href="https://robertem14.github.io/personal-site/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐-Website-0A66C2?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Website" />
-  </a>
+
+| 🎯 **Learning** | 🚧 **Building** | 🔬 **Exploring** |
+|:---:|:---:|:---:|
+| Advanced ML/AI Integration | Next-gen IoT Solutions | PCB Design |
+| Edge Computing Optimization | Smart Home Ecosystems | Computer Vision |
+| Cloud-Native Architecture | Computer Vision Projects |AI Integration |
+
+</div>
+
+---
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
   <a href="https://www.linkedin.com/in/moses-sampson-1362a61a1/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&border_radius=10" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/Mozetoo" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="mailto:mosessampson16@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&border_radius=10" alt="Email" />
   </a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="YOUR_PORTFOLIO_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&border_radius=10" alt="Portfolio" />
   </a>
 </div>
 
@@ -74,5 +136,5 @@ My mission is to help shape the future by designing **intelligent systems** that
 </div>
 
 <div align="center">
-  <i>⭐ From <a href="https://github.com/Mozetoo">Moses Sampson</a> with ❤️</i>
+  <i>⭐ From Moses Sampson(https://github.com/Mozetoo) with ❤️</i>
 </div>
