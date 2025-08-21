@@ -1,9 +1,8 @@
-
- <h1 align="center">Hi there, I'm Moses Sampson! 👋</h1>
+<h1 align="center">Hi there, I'm Moses Sampson! 👋</h1>
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Embedded+Software+Engineer;IoT+Systems+Developer;AI+%26+Computer+Vision+Enthusiast;Full-Stack+Solution+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hardware+%26+Software+Engineer;IoT+Systems+Developer;AI+%26+Computer+Vision+Explorer;Full-Stack+Solution+Architect" alt="Typing SVG" />
 </div>
 
 <br>
@@ -16,16 +15,20 @@
 
 ---
 
-## 🌟 About Me
+## 🧠 About Me
 
-> *"Curiosity drives innovation — I build to learn, and learn to build."*
+I'm a passionate technophile with a deep interest in **Hardware & Software Engineering**, **IoT Systems Development**, and **Computer Vision Applications**. My mission is to revolutionize the future by designing intelligent systems that seamlessly bridge embedded hardware with cloud-native solutions.
 
-I'm passionate about creating **hardware and software systems** that make a meaningful impact on people's lives. My journey spans from **embedded systems** and **IoT development** to **AI integration** and **full-stack solutions**. Every day brings new learning opportunities, and I thrive on turning complex challenges into elegant solutions.
-
+* 🤖 Building smart IoT systems that connect embedded hardware with full-stack applications
+* 🧠 Creating intelligent solutions using OpenCV, LangChain, and Hugging Face technologies
+* 📊 Experimenting with Computer Vision, Smart Home Automation, and Cloud Integration
+* 🎓 Hardware & Software Engineer specializing in IoT product development (prototype → production)
+* 🧪 Continuously learning and exploring Qt, Docker, and AI integration technologies
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117" alt="GitHub Streak" />
 </div>
+
 ---
 
 ## 🚀 What I Do
@@ -55,22 +58,32 @@ I'm passionate about creating **hardware and software systems** that make a mean
 
 ---
 
-## 🛠️ Technology Stack
+## 👨‍💻 Tech Stack
+
+* **Languages:** Python, C/C++, JavaScript (mentioned in original but not highlighted)
+* **Frameworks & Tools:** Qt, OpenCV, LangChain, Hugging Face, Docker, Linux, Selenium
+* **Areas of Interest:** Embedded Systems Design, PCB Design & Prototyping, Computer Vision, IoT Development
+* **Others:** Altium Designer, EasyEDA, MATLAB, GitHub Actions, Google Colab, Overleaf
 
 ### **Programming Languages**
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&border_radius=10" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
 ### **Frameworks & Libraries**
 <div align="center">
- 
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
   <img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black" />
   <img src="https://img.shields.io/badge/LangChain-3a7114?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
 </div>
 
 ### **Tools & Platforms**
@@ -79,7 +92,8 @@ I'm passionate about creating **hardware and software systems** that make a mean
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
 ### **Design & Engineering**
@@ -101,6 +115,14 @@ I'm passionate about creating **hardware and software systems** that make a mean
 
 ---
 
+## 💡 Open to Collaborate On
+
+* 🔧 Embedded Systems & PCB Design Projects with AI Integration
+* 🧠 Computer Vision Applications using OpenCV and Smart Automation
+* 🔍 Research in IoT Product Development or Control Systems Engineering  
+* 🛠️ Building Qt-based applications and Docker-containerized solutions
+
+---
 
 ## 🌱 Current Focus Areas
 
@@ -110,12 +132,13 @@ I'm passionate about creating **hardware and software systems** that make a mean
 |:---:|:---:|:---:|
 | Advanced ML/AI Integration | Next-gen IoT Solutions | PCB Design |
 | Edge Computing Optimization | Smart Home Ecosystems | Computer Vision |
-| Cloud-Native Architecture | Computer Vision Projects |AI Integration |
+| Cloud-Native Architecture | Computer Vision Projects | AI Integration |
 
 </div>
 
 ---
-## 🤝 Let's Connect & Collaborate
+
+## 🔗 Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/moses-sampson-1362a61a1/" target="_blank">
@@ -126,6 +149,12 @@ I'm passionate about creating **hardware and software systems** that make a mean
   </a>
   <a href="YOUR_PORTFOLIO_LINK" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&border_radius=10" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/Mozetoo" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&border_radius=10" alt="GitHub" />
+  </a>
+  <a href="YOUR_INSTAGRAM_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&border_radius=10" alt="Instagram" />
   </a>
 </div>
 
