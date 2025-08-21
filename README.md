@@ -60,7 +60,7 @@ I'm a passionate technophile with a deep interest in **Hardware & Software Engin
 
 ## 👨‍💻 Tech Stack
 
-* **Languages:** Python, C/C++, JavaScript (mentioned in original but not highlighted)
+* **Languages:** Python, C/C++
 * **Frameworks & Tools:** Qt, OpenCV, LangChain, Hugging Face, Docker, Linux, Selenium
 * **Areas of Interest:** Embedded Systems Design, PCB Design & Prototyping, Computer Vision, IoT Development
 * **Others:** Altium Designer, EasyEDA, MATLAB, GitHub Actions, Google Colab, Overleaf
@@ -76,13 +76,13 @@ I'm a passionate technophile with a deep interest in **Hardware & Software Engin
 
 ### **Frameworks & Libraries**
 <div align="left">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP--IDF-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
   <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
   <img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black" />
   <img src="https://img.shields.io/badge/LangChain-3a7114?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
 </div>
 
