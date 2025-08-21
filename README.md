@@ -84,6 +84,9 @@ I'm a passionate technophile with a deep interest in **Hardware & Software Engin
   <img src="https://img.shields.io/badge/LangChain-3a7114?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+  <a href="https://www.pjrc.com/teensy/">
+  <img src="https://img.shields.io/badge/Teensy-2B6DBF?style=for-the-badge&logo=arduino&logoColor=white" />
+</a>
 </div>
 
 ### **Tools & Platforms**
