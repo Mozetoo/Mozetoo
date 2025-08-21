@@ -130,9 +130,8 @@ I'm a passionate technophile with a deep interest in **Hardware & Software Engin
 
 | 🎯 **Learning** | 🚧 **Building** | 🔬 **Exploring** |
 |:---:|:---:|:---:|
-| Advanced ML/AI Integration | Next-gen IoT Solutions | PCB Design |
-| Edge Computing Optimization | Smart Home Ecosystems | Computer Vision |
-| Cloud-Native Architecture | Computer Vision Projects | AI Integration |
+| Lora and LTE | Next-gen IoT Solution    | Control System via Long Range Communication |
+| Hugging Face | Computer Vision Projects | AI Integration |
 
 </div>
 
