@@ -158,12 +158,3 @@ I'm a passionate technophile with a deep interest in **Hardware & Software Engin
   </a>
 </div>
 
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=footer&border_radius=15" />
-</div>
-
-<div align="center">
-  <i>⭐ From Moses Sampson(https://github.com/Mozetoo) with ❤️</i>
-</div>
