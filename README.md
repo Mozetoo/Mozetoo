@@ -66,7 +66,7 @@ I'm a passionate technophile with a deep interest in **Hardware & Software Engin
 * **Others:** Altium Designer, EasyEDA, MATLAB, GitHub Actions, Google Colab, Overleaf
 
 ### **Programming Languages**
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&border_radius=10" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
@@ -75,7 +75,7 @@ I'm a passionate technophile with a deep interest in **Hardware & Software Engin
 </div>
 
 ### **Frameworks & Libraries**
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
@@ -87,7 +87,7 @@ I'm a passionate technophile with a deep interest in **Hardware & Software Engin
 </div>
 
 ### **Tools & Platforms**
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
@@ -97,7 +97,7 @@ I'm a passionate technophile with a deep interest in **Hardware & Software Engin
 </div>
 
 ### **Design & Engineering**
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altium-designer&logoColor=white" />
   <img src="https://img.shields.io/badge/EasyEDA-0066CC?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/MATLAB-de7521?style=for-the-badge&logo=mathworks&logoColor=white" />
@@ -106,7 +106,7 @@ I'm a passionate technophile with a deep interest in **Hardware & Software Engin
 </div>
 
 ### **AI & Cloud Platforms**
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-de7521?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
