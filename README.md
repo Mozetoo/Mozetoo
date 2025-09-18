@@ -173,13 +173,15 @@ private:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"  width="50" />
   </a>
   <a href="mailto:mosessampson16@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://github.com/Mozetoo/Files/blob/main/brand-assets/Gmail_idrA5FDGTH_0.svg"  width="50" />
   </a>
   <a href="https://robertem14.github.io/personal-site/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+    <img src="https://github.com/Mozetoo/Files/blob/main/brand-assets/web.png" width="50" />
   </a>
   <a href="https://github.com/Mozetoo" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" />
+          
   </a>
 </p>
 
