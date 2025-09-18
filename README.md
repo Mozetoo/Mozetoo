@@ -115,10 +115,9 @@ private:
 ### 🔧 **Embedded & IoT**
 <p align="left">
   <img src="https://github.com/Mozetoo/Files/blob/main/brand-assets/arduino_1.png" width="50" /> 
-  <img src="https://github.com/Mozetoo/Files/blob/main/brand-assets/esp32.svg" height="50" />
+  <img src="https://github.com/Mozetoo/Files/blob/main/brand-assets/espressif.svg" height="50" />
   <img src="https://github.com/Mozetoo/Files/blob/main/brand-assets/stm32_1.jpeg" width="50" />
   <img src="https://github.com/Mozetoo/Files/blob/main/brand-assets/raspberrypi.jpeg" width="50" />
-  <img src="https://github.com/Mozetoo/Files/blob/main/brand-assets/jetson.png" width="50" />
 </p>
 
 ### 🧠 **AI & Vision**
