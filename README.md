@@ -185,7 +185,7 @@ private:
     <img src="https://github.com/Mozetoo/Files/blob/main/brand-assets/Gmail_idrA5FDGTH_0.svg"  width="50" />
   </a>
   <a href="https://robertem14.github.io/personal-site/" target="_blank">
-    <img src="https://github.com/Mozetoo/Files/blob/main/brand-assets/website.jpeg" width="40" />
+    <img src="https://github.com/Mozetoo/Files/blob/main/brand-assets/internet.png" width="40" />
   </a>
   <a href="https://github.com/Mozetoo" target="_blank">
     
