@@ -38,7 +38,7 @@ Passionate Embedded Engineer specializing in IoT Systems and Computer Vision. I 
 * IoT & Cloud: Secure MQTT pipelines, REST APIs, and edge-to-cloud integration
 * Computer Vision: OpenCV, AI-powered image classification, object tracking
 * Hardware Design: PCB design (EasyEDA), power management, sensor integration
-* 
+  
 **🎓 Background:** B.Sc. Electrical & Electronic Engineering
 
 </td>
