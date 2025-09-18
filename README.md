@@ -118,15 +118,15 @@ private:
   <img src="https://github.com/Mozetoo/Files/blob/main/brand-assets/espressif.svg" height="50" /> 
   <img src="https://github.com/Mozetoo/Files/blob/main/brand-assets/stm32_1.jpeg" width="50" /> 
   <img src="https://github.com/Mozetoo/Files/blob/main/brand-assets/raspberrypi.jpeg" width="50" /> 
-  <img src="https://github.com/Mozetoo/Files/blob/main/brand-assets/Logo_freeRTOS.png" width="50" /> 
+ 
 </p>
 
 ### 🧠 **AI & Vision**
 <p align="left">
   <img src="https://raw.githubusercontent.com/opencv/opencv/master/doc/opencv-logo.png" width="50" />
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" />
-  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="40" /> <!-- LangChain -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" />
+  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="50" /> <!-- LangChain -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"  width="50" />
 </p>
 
 ### 🛠️ **Development Tools**
