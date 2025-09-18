@@ -115,9 +115,10 @@ private:
 ### 🔧 **Embedded & IoT**
 <p align="left">
   <img src="https://github.com/Mozetoo/Files/blob/main/brand-assets/arduino_1.png" width="50" /> 
-  <img src="https://img.shields.io/badge/ESP--IDF-E7352C?style=flat&logo=espressif&logoColor=E7352C&label=" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/ros-infrastructure/artwork/master/ros_logo.svg" width="40" />
+  <img src="https://github.com/Mozetoo/Files/blob/main/brand-assets/esp32.svg" height="50" />
+  <img src="https://github.com/Mozetoo/Files/blob/main/brand-assets/stm32_1.jpeg" width="50" />
+  <img src="https://github.com/Mozetoo/Files/blob/main/brand-assets/raspberrypi.jpeg" width="50" />
+  <img src="https://github.com/Mozetoo/Files/blob/main/brand-assets/jetson.png" width="50" />
 </p>
 
 ### 🧠 **AI & Vision**
