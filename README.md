@@ -170,17 +170,17 @@ private:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/moses-sampson-1362a61a1/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"  width="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"  width="40" />
   </a>
   <a href="mailto:mosessampson16@gmail.com">
     <img src="https://github.com/Mozetoo/Files/blob/main/brand-assets/Gmail_idrA5FDGTH_0.svg"  width="50" />
   </a>
   <a href="https://robertem14.github.io/personal-site/" target="_blank">
-    <img src="https://github.com/Mozetoo/Files/blob/main/brand-assets/web.png" width="50" />
+    <img src="https://github.com/Mozetoo/Files/blob/main/brand-assets/web.png" width="40" />
   </a>
   <a href="https://github.com/Mozetoo" target="_blank">
     
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" />
           
   </a>
 </p>
