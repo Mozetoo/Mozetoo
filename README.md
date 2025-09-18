@@ -8,7 +8,7 @@
 
 <a href="#">
   <img src="https://img.shields.io/badge/💡%20Innovation%20Driven-00d4aa?style=for-the-badge&labelColor=1a1a1a&logoColor=white" 
-       style="border-radius: 12px; box-shadow: 0px 0px 8px #00d4aa; margin: 6px; transform: scale(1); transition: transform 0.2s;" 
+       style="border-radius: 12px; box-shadow: 0px 0px 8px #701462; margin: 6px; transform: scale(1); transition: transform 0.2s;" 
        onmouseover="this.style.transform='scale(1.1)'" 
        onmouseout="this.style.transform='scale(1)'" />
 </a>
