@@ -114,12 +114,11 @@ private:
 
 ### 🔧 **Embedded & IoT**
 <p align="left">
-  <img src="https://github.com/Mozetoo/Files/blob/main/brand-assets/arduino_1.png" width="50" /> 
-  <img src="https://github.com/Mozetoo/Files/blob/main/brand-assets/espressif.svg" height="50" />
-  <img src="https://github.com/Mozetoo/Files/blob/main/brand-assets/stm32_1.jpeg" width="50" />
-  <img src="https://github.com/Mozetoo/Files/blob/main/brand-assets/raspberrypi.jpeg" width="50" />
+  <img src="https://github.com/Mozetoo/Files/blob/main/brand-assets/arduino_1.png" width="50" style="border-radius:10px;" /> 
+  <img src="https://github.com/Mozetoo/Files/blob/main/brand-assets/espressif.svg" width="50" style="border-radius:10px;" />
+  <img src="https://github.com/Mozetoo/Files/blob/main/brand-assets/stm32_1.jpeg" width="50" style="border-radius:10px;" />
+  <img src="https://github.com/Mozetoo/Files/blob/main/brand-assets/raspberrypi.jpeg" width="50" style="border-radius:10px;" />
 </p>
-
 ### 🧠 **AI & Vision**
 <p align="left">
   <img src="https://raw.githubusercontent.com/opencv/opencv/master/doc/opencv-logo.png" width="40" />
