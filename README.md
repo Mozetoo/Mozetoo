@@ -106,10 +106,12 @@ private:
 
 ### 💻 **Core Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-?style=flat&logo=python&logoColor=3776AB)
+![C++](https://img.shields.io/badge/C++-?style=flat&logo=cplusplus&logoColor=00599C)
+![C](https://img.shields.io/badge/C-?style=flat&logo=c&logoColor=00599C)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-?style=flat&logo=postgresql&logoColor=316192)
+
 
 ### 🔧 **Embedded & IoT**
 
