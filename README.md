@@ -1,56 +1,64 @@
-<h1 align="center">Hi there, I'm Moses Sampson! 👋</h1>
+# 👋 Hi there, I'm Moses Sampson!
 
 <div align="center">
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Embedded+Software+Engineer;IoT+Systems+Developer;AI+%26+Computer+Vision+Enthusiast;Full-Stack+Solution+Architect" alt="Typing SVG" />
-</div>
-
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/💡-Innovation%20Driven-brightgreen?style=for-the-badge&labelColor=1a1a1a&color=00d4aa" />
-  <img src="https://img.shields.io/badge/🚀-Always%20Learning-blue?style=for-the-badge&labelColor=1a1a1a&color=58a6ff" />
-  <img src="https://img.shields.io/badge/🔧-Problem%20Solver-orange?style=for-the-badge&labelColor=1a1a1a&color=ff7b00" />
+  
+  <!-- Animated typing effect -->
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Embedded+Software+Engineer;IoT+Systems+Developer;AI+%26+Computer+Vision+Enthusiast)
+  
+  <!-- Status badges with modern styling -->
+  <img src="https://img.shields.io/badge/💡-Innovation%20Driven-brightgreen?style=for-the-badge&labelColor=0d1117&color=00d4aa" />
+  <img src="https://img.shields.io/badge/🚀-Always%20Learning-blue?style=for-the-badge&labelColor=0d1117&color=58a6ff" />
+  <img src="https://img.shields.io/badge/🔧-Problem%20Solver-orange?style=for-the-badge&labelColor=0d1117&color=ff7b00" />
+  
+  <br><br>
+  
+  <!-- GitHub stats with modern theme -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Mozetoo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
+  
 </div>
 
 ---
 
-## 🧠 About Me
-
-I'm a passionate technophile with a deep interest in **Hardware & Software Engineering**, **IoT Systems Development**, and **Computer Vision Applications**. My mission is to revolutionize the future by designing intelligent systems that seamlessly bridge embedded hardware with cloud-native solutions.
-
-* 🤖 Building smart IoT systems that connect embedded hardware with full-stack applications
-* 🧠 Creating intelligent solutions using OpenCV, LangChain, and Hugging Face technologies
-* 📊 Experimenting with Computer Vision, Smart Home Automation, and Cloud Integration
-* 🎓 Hardware & Software Engineer specializing in IoT product development (prototype → production)
-* 🧪 Continuously learning and exploring Qt, Docker, and AI integration technologies
-* 🎓 B.Sc. in Electrical & Electronic Engineering (EEE), focusing on IoT, AI and Embedded Systems.
-<br>
-
-
----
-
-## 🚀 What I Do
+## 🎯 About Me
 
 <table>
 <tr>
-<td width="50%">
+<td width="65%">
 
-### 🔧 **Hardware & Embedded**
-- Embedded systems design & development
-- PCB design and prototyping
-- IoT product development (prototype → production)
-- Control systems engineering
+**Passionate Embedded Engineer** specializing in **IoT Systems** and **Computer Vision**. I bridge hardware innovation with intelligent software solutions, creating next-gen products from prototype to production.
+
+**🚀 What Drives Me:**
+- Building smart IoT ecosystems that connect seamlessly
+- Integrating AI/ML with embedded systems
+- Developing computer vision applications with real-world impact
+- Creating robust, scalable solutions using modern technologies
+
+**🎓 Background:** B.Sc. Electrical & Electronic Engineering
 
 </td>
-<td width="50%">
+<td width="35%">
 
-### 💻 **Software & AI**
-- Full-stack application development
-- Machine learning & computer vision
-- Smart home automation systems
-- Cloud-native solutions
+```cpp
+class MosesSampson {
+private:
+  string role = "Embedded Engineer";
+  vector<string> focus = {
+    "IoT Development",
+    "Computer Vision", 
+    "AI Integration",
+    "PCB Design"
+  };
+  
+public:
+  void buildTheFuture() {
+    while(learning) {
+      innovate();
+      solve();
+      repeat();
+    }
+  }
+};
+```
 
 </td>
 </tr>
@@ -58,100 +66,118 @@ I'm a passionate technophile with a deep interest in **Hardware & Software Engin
 
 ---
 
-## 👨‍💻 Tech Stack
-
-* **Languages:** Python, C/C++
-* **Frameworks & Tools:** Qt, OpenCV, LangChain, Hugging Face, Docker, Linux, Selenium
-* **Areas of Interest:** Embedded Systems Design, PCB Design & Prototyping, Computer Vision, IoT Development
-* **Others:** Altium Designer, EasyEDA, MATLAB, GitHub Actions, Google Colab, Overleaf
-
-### **Programming Languages**
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&border_radius=10" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-
-</div>
-
-### **Frameworks & Libraries**
-<div align="left">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESP--IDF-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
-  <img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/LangChain-3a7114?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
-</div>
-
-### **Tools & Platforms**
-<div align="left">
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</div>
-
-### **Design & Engineering**
-<div align="left">
-  <img src="https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altium-designer&logoColor=white" />
-  <img src="https://img.shields.io/badge/EasyEDA-0066CC?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/MATLAB-de7521?style=for-the-badge&logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" />
-</div>
-
-### **AI & Cloud Platforms**
-<div align="left">
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-de7521?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/DeepSeek-3279cd?style=for-the-badge&logoColor=white" />
-</div>
-
----
-
-## 💡 Open to Collaborate On
-
-* 🔧 Embedded Systems & PCB Design Projects with AI Integration
-* 🧠 Computer Vision Applications using OpenCV and Smart Automation
-* 🔍 Research in IoT Product Development or Control Systems Engineering  
-* 🛠️ Building Qt-based applications and Docker-containerized solutions
-
----
-
-## 🌱 Current Focus Areas
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-| 🎯 **Learning** | 🚧 **Building** | 🔬 **Exploring** |
+### 💻 **Core Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🔧 **Embedded & IoT**
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP-IDF](https://img.shields.io/badge/ESP--IDF-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+
+### 🧠 **AI & Vision**
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### 🛠️ **Development Tools**
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+
+### 🎨 **Design & PCB**
+![Altium Designer](https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logoColor=white)
+![EasyEDA](https://img.shields.io/badge/EasyEDA-0066CC?style=for-the-badge&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 What I'm Building
+
+<div align="center">
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+**🌐 IoT Ecosystems**
+<br>
+*Smart devices → Cloud*
+<br>
+`Prototype to Production`
+
+</td>
+<td width="33%" align="center">
+
+**👁️ Computer Vision**
+<br>
+*OpenCV + AI Integration*
+<br>
+`Real-world Applications`
+
+</td>
+<td width="33%" align="center">
+
+**🔧 Embedded + AI**
+<br>
+*Hardware meets Intelligence*
+<br>
+`Next-gen Solutions`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🌱 Currently Exploring
+
+<div align="center">
+
+| 🎯 **Learning** | 🚧 **Building** | 🔬 **Research** |
 |:---:|:---:|:---:|
-| Lora and LTE | Next-gen IoT Solution    | Control System via Long Range Communication |
-| Hugging Face | Computer Vision Projects | AI Integration |
+| LoRa & LTE | Next-gen IoT Solutions | Long Range Control Systems |
+| Hugging Face | Computer Vision Apps | AI-Hardware Integration |
 
 </div>
 
 ---
 
-## 🔗 Connect With Me
+## 💡 Let's Collaborate
+
+Looking for partnerships in:
+- **IoT Product Development** (prototype → production)
+- **Computer Vision Projects** with real-world impact
+- **AI-Embedded Systems Integration**
+- **Smart Automation Solutions**
+
+---
+
+## 🔗 Connect & Collaborate
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/moses-sampson-1362a61a1/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&border_radius=10" alt="LinkedIn" />
-  </a>
-  <a href="mailto:mosessampson16@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&border_radius=10" alt="Email" />
-  </a>
-  <a href="YOUR_PORTFOLIO_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&border_radius=10" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/Mozetoo" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&border_radius=10" alt="GitHub" />
-  </a>
-  <a href="YOUR_INSTAGRAM_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&border_radius=10" alt="Instagram" />
-  </a>
-</div>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moses-sampson-1362a61a1/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mosessampson16@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mozetoo)
+
+<br>
+
+**Building the future, one embedded solution at a time** 🚀
+
+![Profile Views](https://komarev.com/ghpvc/?username=Mozetoo&style=for-the-badge&color=58a6ff&labelColor=0d1117)
+
+</div>
