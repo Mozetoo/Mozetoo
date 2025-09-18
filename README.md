@@ -29,7 +29,16 @@ Passionate Embedded Engineer specializing in IoT Systems and Computer Vision. I 
 * Integrating AI/ML with embedded systems
 * Developing computer vision applications with real-world impact
 * Creating robust, scalable solutions using modern technologies
+  
+**🛠️ Core Strengths**
 
+* Embedded Development: STM32, ESP32, Raspberry Pi, ARM Cortex-M
+* Communication Protocols: CAN, Modbus, MQTT, SPI, I²C, RS485
+* Real-Time Systems: FreeRTOS, bare-metal programming, interrupt-driven design
+* IoT & Cloud: Secure MQTT pipelines, REST APIs, and edge-to-cloud integration
+* Computer Vision: OpenCV, AI-powered image classification, object tracking
+* Hardware Design: PCB design (EasyEDA), power management, sensor integration
+* 
 **🎓 Background:** B.Sc. Electrical & Electronic Engineering
 
 </td>
