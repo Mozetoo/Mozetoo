@@ -25,6 +25,7 @@ I'm a passionate technophile with a deep interest in **Hardware & Software Engin
 * 📊 Experimenting with Computer Vision, Smart Home Automation, and Cloud Integration
 * 🎓 Hardware & Software Engineer specializing in IoT product development (prototype → production)
 * 🧪 Continuously learning and exploring Qt, Docker, and AI integration technologies
+* 🎓 B.Sc. in Electrical & Electronic Engineering (EEE), focusing on IoT, AI and Embedded Systems.
 <br>
 
 
