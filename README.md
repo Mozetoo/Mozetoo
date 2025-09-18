@@ -139,8 +139,8 @@ private:
 
 ### 🎨 **Design & PCB**
 <p align="left">
-  <img src="https://github.com/Mozetoo/Files/blob/main/brand-assets/Autodesk_idepUQ4fph_0.svg" width="50" />
-  <img src="https://github.com/Mozetoo/Files/blob/main/brand-assets/altium_designer.png" width="50" />
+  <img src="https://github.com/Mozetoo/Files/blob/main/brand-assets/autodeskk.png" width="50" />
+  <img src="https://github.com/Mozetoo/Files/blob/main/brand-assets/altium_logo.png" width="50" />
   <img src="https://github.com/Mozetoo/Files/blob/main/brand-assets/EasyEda.jpeg" width="50" />
 
 </p>
