@@ -4,11 +4,30 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Embedded+Software+Engineer;IoT+Systems+Developer;AI+%26+Computer+Vision+Enthusiast;Full-Stack+Solution+Architect" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/💡-Innovation%20Driven-00d4aa?style=for-the-badge&labelColor=1a1a1a" />
-  <img src="https://img.shields.io/badge/🚀-Always%20Learning-58a6ff?style=for-the-badge&labelColor=1a1a1a" />
-  <img src="https://img.shields.io/badge/🔧-Problem%20Solver-ff7b00?style=for-the-badge&labelColor=1a1a1a" />
-</p>
+<div align="center">
+
+<a href="#">
+  <img src="https://img.shields.io/badge/💡%20Innovation%20Driven-00d4aa?style=for-the-badge&labelColor=1a1a1a&logoColor=white" 
+       style="border-radius: 12px; box-shadow: 0px 0px 8px #00d4aa; margin: 6px; transform: scale(1); transition: transform 0.2s;" 
+       onmouseover="this.style.transform='scale(1.1)'" 
+       onmouseout="this.style.transform='scale(1)'" />
+</a>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/🚀%20Always%20Learning-58a6ff?style=for-the-badge&labelColor=1a1a1a" 
+       style="border-radius: 12px; box-shadow: 0px 0px 8px #58a6ff; margin: 6px; transform: scale(1); transition: transform 0.2s;" 
+       onmouseover="this.style.transform='scale(1.1)'" 
+       onmouseout="this.style.transform='scale(1)'" />
+</a>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/🔧%20Problem%20Solver-ff7b00?style=for-the-badge&labelColor=1a1a1a" 
+       style="border-radius: 12px; box-shadow: 0px 0px 8px #ff7b00; margin: 6px; transform: scale(1); transition: transform 0.2s;" 
+       onmouseover="this.style.transform='scale(1.1)'" 
+       onmouseout="this.style.transform='scale(1)'" />
+</a>
+
+</div>
 
 ---
 
