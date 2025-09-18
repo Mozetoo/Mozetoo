@@ -26,9 +26,7 @@ I'm a passionate technophile with a deep interest in **Hardware & Software Engin
 * 🎓 Hardware & Software Engineer specializing in IoT product development (prototype → production)
 * 🧪 Continuously learning and exploring Qt, Docker, and AI integration technologies
 <br>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117" alt="GitHub Streak" />
-</div>
+
 
 ---
 
