@@ -114,7 +114,7 @@ private:
 
 ### 🔧 **Embedded & IoT**
 <p align="left">
-  <img src="https://cdn.brandfetch.io/arduino.com/logo" width="40" />
+  <img src="https://raw.githubusercontent.com/Mozetoo/Files/main/assets/arduino.svg" width="40" />
   <img src="https://img.shields.io/badge/ESP--IDF-E7352C?style=flat&logo=espressif&logoColor=E7352C&label=" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/ros-infrastructure/artwork/master/ros_logo.svg" width="40" />
