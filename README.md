@@ -139,9 +139,10 @@ private:
 
 ### 🎨 **Design & PCB**
 <p align="left">
-  <img src="https://seeklogo.com/images/A/altium-designer-logo-AD2741B395-seeklogo.com.png" width="40" />
-  <img src="https://seeklogo.com/images/E/easyeda-logo-74C9BA5A73-seeklogo.com.png" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" /> <!-- Colab -->
+  <img src="https://github.com/Mozetoo/Files/blob/main/brand-assets/Autodesk_idepUQ4fph_0.svg" width="50" />
+  <img src="https://github.com/Mozetoo/Files/blob/main/brand-assets/altium_designer.png" width="50" />
+  <img src="https://github.com/Mozetoo/Files/blob/main/brand-assets/EasyEda.jpeg" width="50" />
+
 </p>
 
 
