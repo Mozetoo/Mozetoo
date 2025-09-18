@@ -44,7 +44,8 @@ private:
     "IoT Development",
     "Computer Vision",
     "AI Integration",
-    "PCB Design"
+    "PCB Design",
+    "Embedded System"
   };
   bool learning = true;
 
