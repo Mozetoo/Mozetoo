@@ -170,7 +170,7 @@ private:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/moses-sampson-1362a61a1/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"  width="50" />
   </a>
   <a href="mailto:mosessampson16@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
