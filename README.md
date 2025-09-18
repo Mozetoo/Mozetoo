@@ -123,7 +123,7 @@ private:
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge\&logo=OpenCV\&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge\&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge\&logo=google-colab\&logoColor=white)
 
 ### 🛠️ **Development Tools**
 
@@ -136,7 +136,7 @@ private:
 
 ![Altium Designer](https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge\&logoColor=white)
 ![EasyEDA](https://img.shields.io/badge/EasyEDA-0066CC?style=for-the-badge\&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge\&logo=google-colab\&logoColor=white)
+
 
 ---
 
