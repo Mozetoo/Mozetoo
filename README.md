@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <!-- GitHub-safe badge row (rounded appearance via shields) -->
-  <img src="https://img.shields.io/badge/%F0%9F%92%A1%20Innovation%20Driven-00d4aa?style=for-the-badge&labelColor=1a1a1a" alt="Innovation Driven" />
-  <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Always%20Learning-58a6ff?style=for-the-badge&labelColor=1a1a1a" alt="Always Learning" />
-  <img src="https://img.shields.io/badge/%F0%9F%94%A7%20Problem%20Solver-ff7b00?style=for-the-badge&labelColor=1a1a1a" alt="Problem Solver" />
+  <!-- Contact information badges -->
+  <img src="https://img.shields.io/badge/%F0%9F%93%B1%20Phone-971%2055%20193%204289-00d4aa?style=for-the-badge&labelColor=1a1a1a" alt="Phone: 971 55 193 4289" />
+  <img src="https://img.shields.io/badge/%F0%9F%93%A7%20Email-mosessampson16%40gmail.com-58a6ff?style=for-the-badge&labelColor=1a1a1a" alt="Email: mosessampson16@gmail.com" />
+  <img src="https://img.shields.io/badge/%F0%9F%93%8D%20Location-Dubai%2C%20AE-ff7b00?style=for-the-badge&labelColor=1a1a1a" alt="Location: Dubai, AE" />
 </p>
 
 ---
