@@ -7,20 +7,11 @@
 </p>
 
 <p align="center">
-  <!-- Phone -->
-  <a href="tel:+971551934289" target="_blank">
-    <img src="https://img.shields.io/badge/📱%20+971%2055%20193%204289-0A66C2?style=for-the-badge&logo=phone&logoColor=white&labelColor=1a1a1a" alt="Phone" />
-  </a>
-  
-  <!-- Email -->
-  <a href="mailto:mosessampson16@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/✉️%20mosessampson16@gmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a" alt="Email" />
-  </a>
-  
-  <!-- Location -->
-  <img src="https://img.shields.io/badge/📍%20Dubai%2C%20AE-FF7B00?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=1a1a1a" alt="Location" />
+  <!-- Contact information badges -->
+  <img src="https://img.shields.io/badge/%F0%9F%93%B1%20Phone-971%2055%20193%204289-00d4aa?style=for-the-badge&labelColor=1a1a1a" alt="Phone: 971 55 193 4289" />
+  <img src="https://img.shields.io/badge/%F0%9F%93%A7%20Email-mosessampson16%40gmail.com-58a6ff?style=for-the-badge&labelColor=1a1a1a" alt="Email: mosessampson16@gmail.com" />
+  <img src="https://img.shields.io/badge/%F0%9F%93%8D%20Location-Dubai%2C%20AE-ff7b00?style=for-the-badge&labelColor=1a1a1a" alt="Location: Dubai, AE" />
 </p>
-
 
 ---
 
