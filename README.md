@@ -8,11 +8,11 @@
 
 <p align="center">
   <!-- Contact information badges -->
-  <img src="https://img.shields.io/badge/%F0%9F%93%B1%20Phone-971%2055%20193%204289-00d4aa?style=for-the-badge&labelColor=1a1a1a" alt="Phone: 971 55 193 4289" />
+  <img src="https://img.shields.io/badge/%F0%9F%93%B1%20Phone-971%2055%20193%204289-024263?style=for-the-badge&labelColor=1a1a1a" alt="Phone: 971 55 193 4289" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/%F0%9F%93%A7%20Email-mosessampson16%40gmail.com-024263?style=for-the-badge&labelColor=1a1a1a" alt="Email: mosessampson16@gmail.com" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/%F0%9F%93%8D%20Location-Dubai%2C%20AE-ff7b00?style=for-the-badge&labelColor=1a1a1a" alt="Location: Dubai, AE" />
+  <img src="https://img.shields.io/badge/%F0%9F%93%8D%20Location-Dubai%2C%20AE-024263?style=for-the-badge&labelColor=1a1a1a" alt="Location: Dubai, AE" />
 </p>
 
 ---
